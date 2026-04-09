@@ -1,0 +1,554 @@
+{
+  "business": {
+    "name": "Sorto Landscaping LLC",
+    "phone": "+17045074367",
+    "category": "hardscaping contractor",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Hardscape Authority",
+      "heroSubline": "Transforming outdoor spaces with unmatched skill and dedication. Sorto Landscaping LLC delivers lasting beauty and functionality to your property.",
+      "aboutTitle": "Built on Expertise, Rooted in Charlotte",
+      "aboutText": [
+        "Sorto Landscaping LLC began over a decade ago with a simple mission: to provide Charlotte-area residents with superior hardscaping solutions. Founded by seasoned professionals, we recognized a need for reliable contractors who understood the unique challenges of our local climate and soil.",
+        "Our approach is straightforward: meticulous planning, quality materials, and flawless execution. We believe in clear communication, transparent pricing, and exceeding expectations on every project, big or small. We treat every property as if it were our own, ensuring lasting value and satisfaction.",
+        "We're proud to be a part of the Charlotte community. We source materials locally whenever possible, support local initiatives, and are committed to sustainable practices that protect our environment. When you choose Sorto Landscaping, you're choosing a partner who cares about the future of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled professionals delivering exceptional results every time."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Charlotte's climate, soil, and landscaping trends."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest quality pavers, stone, and concrete built to last."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a commitment to your complete happiness."
+        }
+      ],
+      "ctaHeadline": "Ready to transform your outdoor space?",
+      "ctaSubline": "Contact Sorto Landscaping LLC today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "paver-installation",
+        "name": "Paver Installation",
+        "shortDescription": "Elevate your outdoor living with stunning paver patios, walkways, and driveways.",
+        "description": "From classic brick to modern concrete, pavers offer unparalleled versatility and durability for your outdoor surfaces. Sorto Landscaping LLC specializes in expert paver installation throughout the Charlotte area. We handle every step of the process, from site preparation and base construction to precise paver placement and sealing. \n\nWe understand the importance of proper drainage in Charlotte's red clay soil, which is why we pay close attention to grading and base compaction. Our experienced team ensures a level, stable surface that will withstand the test of time and weather. Whether you're looking to create a cozy patio for entertaining or a grand driveway that makes a statement, we have the expertise to bring your vision to life. \n\nWe offer a wide selection of paver styles, colors, and patterns to complement your home's architecture and personal taste. Our design consultants will work with you to choose the perfect pavers and create a custom layout that maximizes your outdoor space. We pride ourselves on our attention to detail and commitment to quality, ensuring a beautiful and functional paver installation that you'll enjoy for years to come.",
+        "process": [
+          "Initial Consultation & Design",
+          "Site Preparation & Excavation",
+          "Base Installation & Compaction",
+          "Paver Placement & Cutting",
+          "Joint Sanding & Sealing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable & Low-Maintenance",
+          "Customizable Designs"
+        ],
+        "faq": [
+          {
+            "question": "How long does paver installation take?",
+            "answer": "The duration of paver installation depends on the size and complexity of the project. A typical patio installation can take 3-5 days, while larger projects may take longer. We'll provide a detailed timeline during the consultation process."
+          },
+          {
+            "question": "What type of pavers are best for Charlotte's climate?",
+            "answer": "Concrete pavers are a great choice for Charlotte's climate due to their durability and resistance to freeze-thaw cycles. Natural stone pavers are also a beautiful and long-lasting option, but may require more maintenance."
+          },
+          {
+            "question": "Do you offer paver repair services?",
+            "answer": "Yes, we offer paver repair services to address issues such as cracks, settling, and loose pavers. Our team can assess the damage and provide effective solutions to restore your paver surface."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Control erosion and add structural beauty with expertly designed and built retaining walls.",
+        "description": "Retaining walls are essential for managing soil erosion and creating usable outdoor spaces in Charlotte's often hilly terrain. Sorto Landscaping LLC specializes in designing and constructing durable and aesthetically pleasing retaining walls that meet your specific needs. We work with a variety of materials, including concrete blocks, natural stone, and timber, to create walls that complement your landscape and architecture. \n\nOur experienced team understands the importance of proper engineering and construction techniques to ensure the stability and longevity of your retaining wall. We take into account factors such as soil type, drainage, and load-bearing requirements to create a wall that will withstand the forces of nature. Whether you need a small garden wall or a large structural wall, we have the expertise to get the job done right. \n\nWe are well-versed in the Mecklenburg County permitting process and will ensure that your retaining wall meets all local regulations and safety standards. We handle all aspects of the project, from initial design and excavation to backfilling and finishing touches. Our goal is to provide you with a functional and beautiful retaining wall that enhances the value and usability of your property.",
+        "process": [
+          "Site Assessment & Design",
+          "Permitting & Approvals",
+          "Excavation & Foundation",
+          "Wall Construction & Backfilling",
+          "Drainage Installation & Finishing"
+        ],
+        "benefits": [
+          "Erosion Control & Prevention",
+          "Increased Usable Space",
+          "Enhanced Landscape Aesthetics",
+          "Structural Support & Stability"
+        ],
+        "faq": [
+          {
+            "question": "How high can a retaining wall be without a permit?",
+            "answer": "In Mecklenburg County, retaining walls over 4 feet in height typically require a building permit. We can handle the permitting process for you to ensure compliance with local regulations."
+          },
+          {
+            "question": "What type of drainage is required for a retaining wall?",
+            "answer": "Proper drainage is essential for the longevity of a retaining wall. We typically install a perforated drain pipe behind the wall to collect and redirect water away from the soil. We also use a gravel backfill to promote drainage."
+          },
+          {
+            "question": "How long will a retaining wall last?",
+            "answer": "With proper design and construction, a well-built retaining wall can last for 50 years or more. The lifespan of the wall will depend on factors such as the materials used, the soil conditions, and the amount of maintenance it receives."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-fireplaces",
+        "name": "Outdoor Fireplaces",
+        "shortDescription": "Create a cozy gathering spot with a custom-built outdoor fireplace or fire pit.",
+        "description": "Extend your outdoor season and create a warm and inviting atmosphere with a custom-built outdoor fireplace or fire pit. Sorto Landscaping LLC specializes in designing and constructing beautiful and functional outdoor fireplaces that become the focal point of your backyard. We work with a variety of materials, including brick, stone, and concrete, to create fireplaces that complement your home's architecture and personal style. \n\nOur experienced team can help you choose the perfect location for your outdoor fireplace, taking into account factors such as prevailing winds, proximity to structures, and local fire codes. We handle all aspects of the project, from excavation and foundation to masonry and chimney construction. We also ensure that your fireplace is properly vented and meets all safety standards. \n\nWhether you're looking for a traditional wood-burning fireplace or a modern gas-fueled fire pit, we have the expertise to bring your vision to life. We can also incorporate features such as seating areas, storage for firewood, and decorative elements to create a truly custom outdoor space that you'll enjoy for years to come. Gather around the fire with friends and family and create lasting memories in your own backyard oasis.",
+        "process": [
+          "Design Consultation & Planning",
+          "Permitting & Approvals",
+          "Excavation & Foundation",
+          "Masonry Construction & Venting",
+          "Finishing Touches & Safety Inspection"
+        ],
+        "benefits": [
+          "Extended Outdoor Season",
+          "Enhanced Ambiance & Atmosphere",
+          "Increased Property Value",
+          "Cozy Gathering Spot"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for an outdoor fireplace?",
+            "answer": "In most cases, a permit is required for an outdoor fireplace in Charlotte. We can handle the permitting process for you to ensure compliance with local regulations."
+          },
+          {
+            "question": "What is the best material for an outdoor fireplace?",
+            "answer": "Brick and stone are both popular choices for outdoor fireplaces due to their durability and aesthetic appeal. Concrete is also a viable option, especially for modern designs."
+          },
+          {
+            "question": "How far should an outdoor fireplace be from my house?",
+            "answer": "It's generally recommended to keep an outdoor fireplace at least 10 feet away from any structures, including your house, fences, and trees. Check with your local fire department for specific regulations."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Elevate your outdoor entertaining with a custom-designed outdoor kitchen.",
+        "description": "Bring the joy of cooking and entertaining outdoors with a custom-designed outdoor kitchen by Sorto Landscaping LLC. We specialize in creating functional and stylish outdoor kitchens that seamlessly integrate with your existing landscape. From simple grilling stations to fully equipped culinary centers, we can design and build an outdoor kitchen that meets your specific needs and budget. \n\nOur experienced team will work with you to choose the perfect location for your outdoor kitchen, taking into account factors such as sunlight exposure, proximity to utilities, and traffic flow. We handle all aspects of the project, from design and construction to appliance installation and plumbing. We use only high-quality materials that are designed to withstand the elements, ensuring that your outdoor kitchen will last for years to come. \n\nWe can incorporate features such as built-in grills, refrigerators, sinks, countertops, and storage cabinets to create a fully functional outdoor cooking space. We can also add features such as bars, seating areas, and lighting to create a comfortable and inviting entertainment area. Impress your guests with delicious meals prepared in your own custom outdoor kitchen.",
+        "process": [
+          "Design Consultation & Planning",
+          "Permitting & Approvals",
+          "Site Preparation & Construction",
+          "Appliance Installation & Plumbing",
+          "Finishing Touches & Inspection"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Entertaining",
+          "Increased Property Value",
+          "Expanded Living Space",
+          "Convenient Cooking & Dining"
+        ],
+        "faq": [
+          {
+            "question": "What appliances should I include in my outdoor kitchen?",
+            "answer": "The appliances you include in your outdoor kitchen will depend on your cooking style and entertaining needs. Popular choices include a built-in grill, refrigerator, sink, side burner, and pizza oven."
+          },
+          {
+            "question": "What type of countertops are best for outdoor kitchens?",
+            "answer": "Granite, concrete, and stainless steel are all durable and weather-resistant options for outdoor kitchen countertops. Choose a material that complements your overall design and personal style."
+          },
+          {
+            "question": "Do I need a permit for an outdoor kitchen?",
+            "answer": "In most cases, a permit is required for an outdoor kitchen in Charlotte, especially if it includes plumbing or electrical work. We can handle the permitting process for you to ensure compliance with local regulations."
+          }
+        ]
+      },
+      {
+        "slug": "drainage-solutions",
+        "name": "Drainage Solutions",
+        "shortDescription": "Protect your property from water damage with effective drainage solutions.",
+        "description": "Charlotte's red clay soil and frequent heavy rains can create serious drainage problems for homeowners. Sorto Landscaping LLC specializes in providing effective drainage solutions that protect your property from water damage, erosion, and foundation issues. We understand the unique challenges of our local climate and soil conditions, and we have the expertise to design and implement drainage systems that work. \n\nOur experienced team will assess your property to identify areas where water is pooling or causing damage. We'll then design a custom drainage system that effectively redirects water away from your home and landscape. We offer a variety of drainage solutions, including French drains, surface drains, downspout extensions, and grading adjustments. \n\nWe use only high-quality materials and proven techniques to ensure that your drainage system is durable and effective. We also pay close attention to aesthetics, ensuring that your drainage system blends seamlessly with your landscape. Protect your investment and prevent costly repairs with a professionally installed drainage system from Sorto Landscaping LLC.",
+        "process": [
+          "Site Assessment & Problem Identification",
+          "Drainage System Design & Planning",
+          "Excavation & Installation",
+          "Grading & Backfilling",
+          "Testing & Inspection"
+        ],
+        "benefits": [
+          "Erosion Control & Prevention",
+          "Foundation Protection",
+          "Reduced Water Damage",
+          "Improved Landscape Health"
+        ],
+        "faq": [
+          {
+            "question": "What is a French drain?",
+            "answer": "A French drain is a trench filled with gravel or rock that contains a perforated pipe. It's used to redirect surface and subsurface water away from a specific area."
+          },
+          {
+            "question": "How do I know if I need a drainage system?",
+            "answer": "Signs that you may need a drainage system include standing water in your yard, erosion, water in your basement, and foundation cracks."
+          },
+          {
+            "question": "How much does a drainage system cost?",
+            "answer": "The cost of a drainage system will depend on the size and complexity of the project. We'll provide a detailed estimate after assessing your property and determining the best drainage solution for your needs."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-work",
+        "name": "Concrete Work",
+        "shortDescription": "Durable and reliable concrete solutions for driveways, patios, and walkways.",
+        "description": "Sorto Landscaping LLC provides comprehensive concrete services for residential and commercial properties in Charlotte. From new driveways and patios to repairs and replacements, we deliver high-quality concrete work that stands the test of time. We understand the importance of proper preparation, mixing, and pouring techniques to ensure a strong and durable concrete surface. \n\nOur experienced team uses only the best materials and equipment to create smooth, level, and crack-resistant concrete surfaces. We can also add decorative finishes such as stamped concrete, exposed aggregate, and colored concrete to enhance the aesthetic appeal of your project. Whether you need a new driveway, a patio extension, or a concrete walkway, we have the expertise to get the job done right. \n\nWe are committed to providing our customers with exceptional service and quality workmanship. We handle all aspects of the project, from excavation and formwork to pouring and finishing. We also ensure that your concrete project meets all local building codes and safety standards. Trust Sorto Landscaping LLC for all your concrete needs in Charlotte.",
+        "process": [
+          "Site Preparation & Excavation",
+          "Formwork & Reinforcement",
+          "Concrete Pouring & Leveling",
+          "Finishing & Curing",
+          "Sealing & Protection"
+        ],
+        "benefits": [
+          "Durable & Long-Lasting",
+          "Low-Maintenance",
+          "Versatile Design Options",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How thick should a concrete driveway be?",
+            "answer": "A concrete driveway should typically be at least 4 inches thick for residential use. For heavier vehicles or commercial applications, a thickness of 5-6 inches is recommended."
+          },
+          {
+            "question": "How long does it take for concrete to cure?",
+            "answer": "Concrete typically takes 28 days to fully cure, but it can be walked on after 24 hours and driven on after 7 days. Proper curing is essential for the strength and durability of the concrete."
+          },
+          {
+            "question": "What is stamped concrete?",
+            "answer": "Stamped concrete is a decorative concrete technique that involves imprinting patterns and textures onto the surface of freshly poured concrete. It can be used to mimic the look of brick, stone, or other materials."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC is proud to offer our hardscaping services to the residents of Huntersville, NC. We understand the unique character of this rapidly growing town, known for its beautiful 1990s and 2000s suburban developments. From paver patios and walkways to retaining walls and outdoor kitchens, we can enhance your outdoor living space and increase your property value.\n\nOur team is experienced in designing and installing hardscapes that complement the existing architecture and landscape of Huntersville homes. We take into account the hot, humid summers of the region when selecting materials and planning your project, ensuring long-lasting beauty and functionality. Whether you're looking to create a cozy backyard retreat or a stunning outdoor entertaining area, Sorto Landscaping LLC has the expertise to bring your vision to life.",
+        "localContext": "Huntersville's mix of established neighborhoods and newer developments makes it a great place to invest in high-quality hardscaping that adds both value and curb appeal.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC is dedicated to providing exceptional hardscaping services to the residents of Concord, NC. We appreciate the family-friendly atmosphere and charm of this thriving city, characterized by its many 1980s and 90s family homes. Our hardscaping solutions are designed to enhance your outdoor spaces and create lasting memories for you and your loved ones.\n\nWe specialize in creating custom patios, walkways, and retaining walls that blend seamlessly with the existing landscape of Concord properties. Understanding the hot, humid summers of the area, we use durable materials and expert installation techniques to ensure your hardscaping project stands the test of time. Let Sorto Landscaping LLC transform your backyard into a beautiful and functional oasis.",
+        "localContext": "Concord's established neighborhoods and strong sense of community make hardscaping upgrades a great way to connect with neighbors and enhance your property's appeal.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC proudly serves the residents of Matthews, NC, offering a comprehensive range of hardscaping services. We understand the character of this established suburb, known for its 1970s and 80s homes and mature landscapes. We're dedicated to providing hardscaping solutions that complement the existing beauty of Matthews properties.\n\nFrom designing and installing elegant patios and walkways to building sturdy retaining walls and outdoor fireplaces, our team has the expertise to transform your outdoor space into a welcoming and functional oasis. We take into consideration Matthews' hot, humid summers when planning your project, ensuring that your hardscaping investment will thrive for years to come. Let Sorto Landscaping LLC enhance your Matthews home with our expert hardscaping services.",
+        "localContext": "Matthews' mature landscapes and established neighborhoods make it an ideal place to enhance your outdoor living space with custom hardscaping projects.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Weddington",
+          "Stallings"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-sc",
+        "state": "SC",
+        "content": "Sorto Landscaping LLC is excited to bring our hardscaping expertise to the growing community of Fort Mill, SC. We understand the appeal of this vibrant town, known for its newer 2000s-2020s planned communities and family-friendly atmosphere. Our hardscaping services are designed to enhance your outdoor living space and create a welcoming environment for all.\n\nWe specialize in creating custom patios, walkways, and retaining walls that blend seamlessly with the modern aesthetics of Fort Mill homes. Recognizing the hot, humid summers of the region, we use durable materials and expert installation techniques to ensure your hardscaping project stands the test of time. Let Sorto Landscaping LLC transform your backyard into a beautiful and functional extension of your home.",
+        "localContext": "Fort Mill's rapid growth and focus on community make it an ideal place to invest in hardscaping that enhances your outdoor living and property value.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Rock Hill",
+          "Pineville"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC is proud to offer our hardscaping services to the residents of Gastonia, NC. We appreciate the rich history and working-class roots of this city, characterized by its many 1960s and 70s homes. Our hardscaping solutions are designed to enhance your outdoor spaces and create lasting value for your property.\n\nWe specialize in creating custom patios, walkways, and retaining walls that blend seamlessly with the existing landscape of Gastonia properties. Understanding the hot, humid summers of the area, we use durable materials and expert installation techniques to ensure your hardscaping project stands the test of time. Let Sorto Landscaping LLC transform your backyard into a beautiful and functional oasis where you can relax and enjoy time with family and friends.",
+        "localContext": "Gastonia's established neighborhoods and strong sense of community make hardscaping upgrades a great way to enhance your property's appeal and create a welcoming outdoor space.",
+        "nearbyAreas": [
+          "Belmont",
+          "Mount Holly",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Belmont",
+        "slug": "belmont-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC extends its professional hardscaping services to the charming town of Belmont, NC. We understand the unique character of Belmont, with its historic downtown and blend of traditional and newer homes. Our hardscaping solutions are designed to complement the architectural styles found throughout Belmont, enhancing your property's curb appeal and value.\n\nWhether you're looking to create a cozy patio for outdoor dining or need a retaining wall to address grading issues, our team has the expertise to handle any hardscaping project. We consider Belmont's climate, with its hot, humid summers, when selecting materials and implementing our designs, ensuring your hardscaping will last for years to come. Trust Sorto Landscaping LLC to transform your outdoor space into a beautiful and functional oasis.",
+        "localContext": "Belmont's blend of historic charm and modern development makes hardscaping a great way to enhance your property's unique character.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Gastonia",
+          "Clover SC"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC is delighted to offer our expert hardscaping services to the residents of Cornelius, NC. Known for its beautiful waterfront properties and vibrant community, Cornelius is a wonderful place to call home. We understand the importance of creating outdoor spaces that maximize the enjoyment of the lake lifestyle.\n\nOur team specializes in designing and installing custom patios, walkways, and outdoor living areas that complement the stunning views and unique architectural styles found in Cornelius. We carefully consider the local climate and environmental factors to ensure that your hardscaping project is both beautiful and durable. Let Sorto Landscaping LLC help you create the outdoor oasis of your dreams in Cornelius.",
+        "localContext": "Cornelius' waterfront location and active community make hardscaping a worthwhile investment for enhancing your outdoor living experience.",
+        "nearbyAreas": [
+          "Davidson",
+          "Huntersville",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Mooresville",
+        "slug": "mooresville-nc",
+        "state": "NC",
+        "content": "Sorto Landscaping LLC is proud to serve the residents of Mooresville, NC with our comprehensive hardscaping services. We understand the unique character of this growing town, known for its connection to racing and its beautiful lakefront properties. Our hardscaping solutions are designed to enhance your outdoor spaces and create lasting value for your property.\n\nWe specialize in creating custom patios, walkways, and retaining walls that blend seamlessly with the existing landscape of Mooresville properties. Understanding the hot, humid summers of the area, we use durable materials and expert installation techniques to ensure your hardscaping project stands the test of time. Whether you're looking to create a relaxing backyard retreat or a stunning outdoor entertaining area, Sorto Landscaping LLC has the expertise to bring your vision to life.",
+        "localContext": "Mooresville's lakefront lifestyle and growing community make hardscaping a smart investment for enhancing your outdoor living and property value.",
+        "nearbyAreas": [
+          "Davidson",
+          "Huntersville",
+          "Troutman"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Paver Patio Installation",
+        "text": "Sorto Landscaping transformed our backyard! The paver patio they installed is absolutely beautiful and exactly what we envisioned. The crew was professional, efficient, and paid attention to every detail. We couldn't be happier with the results!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Retaining Wall Construction",
+        "text": "We needed a retaining wall to prevent erosion on our property, and Sorto Landscaping did an excellent job. The wall is sturdy and looks great. There was a slight delay due to weather, but they communicated clearly and kept us informed throughout the process.",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Outdoor Fireplace",
+        "text": "Our new outdoor fireplace is the perfect addition to our backyard. Sorto Landscaping helped us design a fireplace that fits our style and budget. The craftsmanship is outstanding, and we've already enjoyed many cozy evenings by the fire. Highly recommend!",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Drainage Solutions",
+        "text": "After years of dealing with standing water in our yard, we finally called Sorto Landscaping. They installed a French drain system that completely solved the problem. Our yard is now dry and usable, even after heavy rains. Thank you!",
+        "date": "2025-06-01"
+      },
+      {
+        "name": "Ashley K.",
+        "rating": 4,
+        "service": "Concrete Driveway Replacement",
+        "text": "Sorto Landscaping replaced our old, cracked driveway with a beautiful new concrete driveway. The crew was professional and efficient, and the driveway looks great. There were a few minor issues with the finishing, but they promptly addressed them to our satisfaction.",
+        "date": "2025-07-18"
+      },
+      {
+        "name": "Michael L.",
+        "rating": 5,
+        "service": "Outdoor Kitchen",
+        "text": "The outdoor kitchen Sorto Landscaping built for us is amazing! We now have a fully functional cooking and entertaining space in our backyard. The quality of the materials and workmanship is exceptional. We highly recommend them for any hardscaping project.",
+        "date": "2025-08-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Sorto Landscaping LLC | Charlotte Hardscaping",
+        "description": "Expert hardscaping services in Charlotte, NC. Paver patios, retaining walls, outdoor kitchens & more. Free consultations. Call +17045074367"
+      },
+      "about": {
+        "title": "About Sorto Landscaping | Charlotte, NC",
+        "description": "Learn about Sorto Landscaping LLC, Charlotte's leading hardscaping contractor. Quality craftsmanship, local expertise, and guaranteed satisfaction."
+      },
+      "services": {
+        "title": "Hardscaping Services | Sorto Landscaping",
+        "description": "Paver installation, retaining walls, outdoor fireplaces, drainage solutions & more. Serving Charlotte, Huntersville, Concord & surrounding areas."
+      },
+      "contact": {
+        "title": "Contact Sorto Landscaping | Charlotte, NC",
+        "description": "Contact Sorto Landscaping LLC for a free consultation and estimate. Call +17045074367 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Sorto Landscaping Reviews | Charlotte, NC",
+        "description": "Read reviews from satisfied Sorto Landscaping LLC customers in Charlotte, NC. See why we're the trusted choice for hardscaping services."
+      },
+      "service-areas": {
+        "title": "Service Areas | Sorto Landscaping",
+        "description": "Sorto Landscaping LLC provides hardscaping services in Charlotte, Huntersville, Concord, Matthews, Fort Mill, and Gastonia, NC."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "paver-installation": "/images/service-paver-installation.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "outdoor-fireplaces": "/images/service-outdoor-fireplaces.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "drainage-solutions": "/images/service-drainage-solutions.webp",
+      "concrete-work": "/images/service-concrete-work.webp"
+    },
+    "servicesResponsive": {
+      "paver-installation": {
+        "src": "/images/service-paver-installation.webp",
+        "srcset": "/images/service-paver-installation-400w.webp 400w, /images/service-paver-installation-800w.webp 800w, /images/service-paver-installation-1200w.webp 1200w, /images/service-paver-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-fireplaces": {
+        "src": "/images/service-outdoor-fireplaces.webp",
+        "srcset": "/images/service-outdoor-fireplaces-400w.webp 400w, /images/service-outdoor-fireplaces-800w.webp 800w, /images/service-outdoor-fireplaces-1200w.webp 1200w, /images/service-outdoor-fireplaces.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drainage-solutions": {
+        "src": "/images/service-drainage-solutions.webp",
+        "srcset": "/images/service-drainage-solutions-400w.webp 400w, /images/service-drainage-solutions-800w.webp 800w, /images/service-drainage-solutions-1200w.webp 1200w, /images/service-drainage-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-work": {
+        "src": "/images/service-concrete-work.webp",
+        "srcset": "/images/service-concrete-work-400w.webp 400w, /images/service-concrete-work-800w.webp 800w, /images/service-concrete-work-1200w.webp 1200w, /images/service-concrete-work.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
